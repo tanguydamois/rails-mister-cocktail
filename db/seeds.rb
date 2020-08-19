@@ -5,3 +5,6 @@ Ingredient.create(name: "ice")
 Ingredient.create(name: "mint leaves")
 
 Cocktail.create(name: "Old Fashioned")
+Cocktail.create(name: "Mojito")
+Cocktail.create(name: "Margarita")
+Cocktail.create(name: "Bloody Ceasar")
